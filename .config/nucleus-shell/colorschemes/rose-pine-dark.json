@@ -1,0 +1,50 @@
+{
+  "_comment": "Rose Pine",
+
+  "background": "#191724",
+  "surface": "#191724",
+  "surface_dim": "#14121C",
+  "surface_bright": "#1F1D2E",
+
+  "surface_container_lowest": "#0F0D16",
+  "surface_container_low": "#14121C",
+  "surface_container": "#191724",
+  "surface_container_high": "#1F1D2E",
+  "surface_container_highest": "#26233A",
+
+  "on_background": "#E0DEF4",
+  "on_surface": "#E0DEF4",
+  "on_surface_variant": "#908CAA",
+
+  "primary": "#C4A7E7",
+  "primary_container": "#362C47",
+  "on_primary": "#191724",
+  "on_primary_container": "#F1E6FF",
+
+  "secondary": "#EBBCBA",
+  "secondary_container": "#3F2A2A",
+  "on_secondary": "#191724",
+  "on_secondary_container": "#FFE1DF",
+
+  "tertiary": "#9CCFD8",
+  "tertiary_container": "#23383C",
+  "on_tertiary": "#191724",
+  "on_tertiary_container": "#D6F6F8",
+
+  "error": "#EB6F92",
+  "error_container": "#40202A",
+  "on_error": "#191724",
+  "on_error_container": "#FFDADA",
+
+  "outline": "#6E6A86",
+  "outline_variant": "#26233A",
+
+  "inverse_surface": "#E0DEF4",
+  "inverse_on_surface": "#191724",
+  "inverse_primary": "#907AA9",
+
+  "shadow": "#000000",
+  "scrim": "#000000",
+  "surface_tint": "#C4A7E7",
+  "source_color": "#C4A7E7"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "Gruvbox Dark",
+
+  "background": "#282828",
+  "surface": "#282828",
+  "surface_dim": "#1F1F1F",
+  "surface_bright": "#32302F",
+
+  "surface_container_lowest": "#1B1B1B",
+  "surface_container_low": "#1F1F1F",
+  "surface_container": "#282828",
+  "surface_container_high": "#32302F",
+  "surface_container_highest": "#3C3836",
+
+  "on_background": "#EBDBB2",
+  "on_surface": "#EBDBB2",
+  "on_surface_variant": "#D5C4A1",
+
+  "primary": "#FABD2F",
+  "primary_container": "#4A3B12",
+  "on_primary": "#282828",
+  "on_primary_container": "#FFF1C1",
+
+  "secondary": "#FB4934",
+  "secondary_container": "#4A1F1A",
+  "on_secondary": "#282828",
+  "on_secondary_container": "#FFD6D0",
+
+  "tertiary": "#B8BB26",
+  "tertiary_container": "#2F3310",
+  "on_tertiary": "#282828",
+  "on_tertiary_container": "#F2F4A8",
+
+  "error": "#CC241D",
+  "error_container": "#3A1412",
+  "on_error": "#282828",
+  "on_error_container": "#FFDAD6",
+
+  "outline": "#665C54",
+  "outline_variant": "#3C3836",
+
+  "inverse_surface": "#FBF1C7",
+  "inverse_on_surface": "#282828",
+  "inverse_primary": "#D79921",
+
+  "shadow": "#000000",
+  "scrim": "#000000",
+  "surface_tint": "#FABD2F",
+  "source_color": "#FABD2F"
+}

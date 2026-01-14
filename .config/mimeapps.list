@@ -1,0 +1,7 @@
+[Added Associations]
+application/json=kate-2.desktop;
+application/x-zerosize=kate.desktop;
+
+[Default Applications]
+application/json=kate-2.desktop;
+application/x-zerosize=kate.desktop;
