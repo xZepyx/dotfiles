@@ -1,50 +1,104 @@
 {
-  "_comment": "Mono Dark",
+  "_comment": "Material Colors generated with Matugen"
 
-  "background": "#111111",
-  "surface": "#111111",
-  "surface_dim": "#0D0D0D",
-  "surface_bright": "#191919",
+  , "background": "#151314"
 
-  "surface_container_lowest": "#0A0A0A",
-  "surface_container_low": "#0D0D0D",
-  "surface_container": "#111111",
-  "surface_container_high": "#191919",
-  "surface_container_highest": "#242424",
+  , "error": "#ffb4ab"
 
-  "on_background": "#828282",
-  "on_surface": "#828282",
-  "on_surface_variant": "#5d5d5d",
+  , "error_container": "#93000a"
 
-  "primary": "#aaaaaa",
-  "primary_container": "#2A2A2A",
-  "on_primary": "#111111",
-  "on_primary_container": "#e0e0e0",
+  , "inverse_on_surface": "#323031"
 
-  "secondary": "#a7a7a7",
-  "secondary_container": "#2E2E2E",
-  "on_secondary": "#111111",
-  "on_secondary_container": "#dedede",
+  , "inverse_primary": "#6b5965"
 
-  "tertiary": "#cccccc",
-  "tertiary_container": "#3A3A3A",
-  "on_tertiary": "#111111",
-  "on_tertiary_container": "#f0f0f0",
+  , "inverse_surface": "#e7e1e2"
 
-  "error": "#dddddd",
-  "error_container": "#3A3A3A",
-  "on_error": "#111111",
-  "on_error_container": "#f5f5f5",
+  , "on_background": "#e7e1e2"
 
-  "outline": "#3c3c3c",
-  "outline_variant": "#191919",
+  , "on_error": "#690005"
 
-  "inverse_surface": "#d4d4d4",
-  "inverse_on_surface": "#111111",
-  "inverse_primary": "#555555",
+  , "on_error_container": "#ffdad6"
 
-  "shadow": "#000000",
-  "scrim": "#000000",
-  "surface_tint": "#cccccc",
-  "source_color": "#aaaaaa"
+  , "on_primary": "#3b2c36"
+
+  , "on_primary_container": "#f3dcea"
+
+  , "on_primary_fixed": "#241821"
+
+  , "on_primary_fixed_variant": "#52424d"
+
+  , "on_secondary": "#372e34"
+
+  , "on_secondary_container": "#eedee7"
+
+  , "on_secondary_fixed": "#22191f"
+
+  , "on_secondary_fixed_variant": "#4e444a"
+
+  , "on_surface": "#e7e1e2"
+
+  , "on_surface_variant": "#cbc5c6"
+
+  , "on_tertiary": "#3e2a39"
+
+  , "on_tertiary_container": "#f9daed"
+
+  , "on_tertiary_fixed": "#271623"
+
+  , "on_tertiary_fixed_variant": "#56404f"
+
+  , "outline": "#948f91"
+
+  , "outline_variant": "#494647"
+
+  , "primary": "#d7c0ce"
+
+  , "primary_container": "#52424d"
+
+  , "primary_fixed": "#f3dcea"
+
+  , "primary_fixed_dim": "#d7c0ce"
+
+  , "scrim": "#000000"
+
+  , "secondary": "#d2c2ca"
+
+  , "secondary_container": "#4e444a"
+
+  , "secondary_fixed": "#eedee7"
+
+  , "secondary_fixed_dim": "#d2c2ca"
+
+  , "shadow": "#000000"
+
+  , "source_color": "#e462d0"
+
+  , "surface": "#151314"
+
+  , "surface_bright": "#3b383a"
+
+  , "surface_container": "#211f20"
+
+  , "surface_container_high": "#2c292a"
+
+  , "surface_container_highest": "#373435"
+
+  , "surface_container_low": "#1d1b1c"
+
+  , "surface_container_lowest": "#100e0f"
+
+  , "surface_dim": "#151314"
+
+  , "surface_tint": "#d7c0ce"
+
+  , "surface_variant": "#494647"
+
+  , "tertiary": "#dbbed1"
+
+  , "tertiary_container": "#56404f"
+
+  , "tertiary_fixed": "#f9daed"
+
+  , "tertiary_fixed_dim": "#dbbed1"
+
 }
