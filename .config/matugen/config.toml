@@ -1,27 +1,39 @@
 [config]
-reload = false
+version_check = false
+
+[templates.m3colors]
+input_path = '~/.config/matugen/templates/colors.json'
+output_path = '~/.config/nucleus-shell/config//colors.json'
 
 [templates.hyprland]
-input_path = '~/.config/matugen/templates/hyprland-colors.conf'
-output_path = '~/.config/hypr/cfg/colors.conf'
-post_hook = 'hyprctl reload'
+input_path = '~/.config/matugen/templates/hyprland/colors.conf'
+output_path = '~/.config/hypr/hyprland/colors.conf'
 
-[templates.cava]
-input_path = '~/.config/matugen/templates/matugen-cava'
-output_path = '~/.config/cava/config'
-post_hook = "pkill -USR1 cava"
+[templates.gtk3]
+input_path = '~/.config/matugen/templates/gtk-3.0/gtk.css'
+output_path = '~/.config/gtk-3.0/gtk.css'
 
-[templates.pywalfox]
-input_path = '~/.config/matugen/templates/pywal.json'
-output_path = '~/.cache/wal/colors.json'
-post_hook = 'pywalfox update'
+[templates.gtk4]
+input_path = '~/.config/matugen/templates/gtk-4.0/gtk.css'
+output_path = '~/.config/gtk-4.0/gtk.css'
+
+[templates.kvantum]
+input_path = '~/.config/matugen/templates/kvantum/kvantum-colors.kvconfig'
+output_path = '~/.config/Kvantum/Material/Material.kvconfig'
+
+[templates.kvantum_svg]
+input_path = '~/.config/matugen/templates/kvantum/kvantum-colors.svg'
+output_path = '~/.config/Kvantum/Material/Material.svg'
+
+[templates.colors]
+input_path = '~/.config/matugen/templates/kvantum/Material.colors'
+output_path = '~/.local/share/color-schemes/Material.colors'
 
 [templates.kitty]
-input_path = '~/.config/matugen/templates/kitty-colors.conf'
-output_path = '~/.config/kitty/colors.conf'
-post_hook = "kill -SIGUSR1 $(pidof kitty)"
+input_path = '~/.config/matugen/templates/kitty.conf'
+output_path = '~/.config/kitty/themes/Material.conf'
+post_hook = "kitty +kitten themes --reload-in=all Material"
 
-[templates.vesktop]
-input_path = '~/.config/matugen/templates/midnight-discord.css'
-output_path = '~/.config/vesktop/midnight-discord.conf'
-
+[templates.vivaldi]
+input_path = '~/.config/matugen/templates/vivaldi.css'
+output_path = '~/.config/vivaldi/colors.css' 

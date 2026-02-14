@@ -1,0 +1,50 @@
+{
+  "_comment": "Everforest Soft",
+
+  "background": "#232A2E",
+  "surface": "#232A2E",
+  "surface_dim": "#1E2428",
+  "surface_bright": "#2D353B",
+
+  "surface_container_lowest": "#1A1F23",
+  "surface_container_low": "#1E2428",
+  "surface_container": "#232A2E",
+  "surface_container_high": "#2D353B",
+  "surface_container_highest": "#3A4248",
+
+  "on_background": "#859289",
+  "on_surface": "#859289",
+  "on_surface_variant": "#D3C6AA",
+
+  "primary": "#A7C080",
+  "primary_container": "#3A4434",
+  "on_primary": "#232A2E",
+  "on_primary_container": "#DCE8C8",
+
+  "secondary": "#D3C6AA",
+  "secondary_container": "#4A463A",
+  "on_secondary": "#232A2E",
+  "on_secondary_container": "#EFE7D4",
+
+  "tertiary": "#9DA9A0",
+  "tertiary_container": "#3E4744",
+  "on_tertiary": "#232A2E",
+  "on_tertiary_container": "#E2E8E4",
+
+  "error": "#E67E80",
+  "error_container": "#4A2324",
+  "on_error": "#232A2E",
+  "on_error_container": "#F6C6C7",
+
+  "outline": "#7A8478",
+  "outline_variant": "#2D353B",
+
+  "inverse_surface": "#9DA9A0",
+  "inverse_on_surface": "#232A2E",
+  "inverse_primary": "#434F55",
+
+  "shadow": "#475258",
+  "scrim": "#000000",
+  "surface_tint": "#A7C080",
+  "source_color": "#A7C080"
+}

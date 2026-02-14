@@ -1,0 +1,8 @@
+{
+  "id": "activateLinux",
+  "name": "Activate Linux Badge",
+  "version": "0.1.0",
+  "author": "outfoxxed",
+  "description": "Shows an Activate Linux badge on the screen",
+  "requires_nucleus": ">=0.1.0"
+}

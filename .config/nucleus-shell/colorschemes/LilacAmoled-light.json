@@ -1,0 +1,50 @@
+{
+  "_comment": "LilacAmoled - Light",
+
+  "background": "#fbf8ff",
+  "surface": "#fbf8ff",
+  "surface_dim": "#e8e0f8",
+  "surface_bright": "#fbf8ff",
+
+  "surface_container_lowest": "#fbf8ff",
+  "surface_container_low": "#fbf8ff",
+  "surface_container": "#fbf8ff",
+  "surface_container_high": "#e8e0f8",
+  "surface_container_highest": "#e2d8f5",
+
+  "on_background": "#1a1428",
+  "on_surface": "#1a1428",
+  "on_surface_variant": "#8a56d4",
+
+  "primary": "#8a56d4",
+  "primary_container": "#e8e0f8",
+  "on_primary": "#ffffff",
+  "on_primary_container": "#1a1428",
+
+  "secondary": "#a074ff",
+  "secondary_container": "#e8e0f8",
+  "on_secondary": "#ffffff",
+  "on_secondary_container": "#1a1428",
+
+  "tertiary": "#c79aff",
+  "tertiary_container": "#e8e0f8",
+  "on_tertiary": "#ffffff",
+  "on_tertiary_container": "#1a1428",
+
+  "error": "#ff6f9b",
+  "error_container": "#e8e0f8",
+  "on_error": "#ffffff",
+  "on_error_container": "#1a1428",
+
+  "outline": "#9b85c2",
+  "outline_variant": "#e8e0f8",
+
+  "inverse_surface": "#1a1428",
+  "inverse_on_surface": "#fbf8ff",
+  "inverse_primary": "#b58fff",
+
+  "shadow": "#e2d8f5",
+  "scrim": "#000000",
+  "surface_tint": "#8a56d4",
+  "source_color": "#8a56d4"
+}
