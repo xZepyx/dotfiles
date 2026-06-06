@@ -2653,9 +2653,3 @@ font_size 13.0
 #: }}}
 
 
-
-
-# BEGIN_KITTY_THEME
-# Material
-include current-theme.conf
-# END_KITTY_THEME

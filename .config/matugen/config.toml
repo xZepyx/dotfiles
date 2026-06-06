@@ -1,0 +1,45 @@
+[config]
+version_check = false
+
+
+
+[templates.helium]
+input_path = './templates/colors.scss'
+output_path = '~/.config/helium/nucleus-shell/css/colors.css'
+
+[templates.hyprland]
+input_path = '~/.config/matugen/templates/hyprland/colors.conf'
+output_path = '~/.config/hypr/hyprland/colors.conf'
+
+[templates.gtk3]
+input_path = '~/.config/matugen/templates/gtk-3.0/gtk.css'
+output_path = '~/.config/gtk-3.0/gtk.css'
+
+[templates.gtk4]
+input_path = '~/.config/matugen/templates/gtk-4.0/gtk.css'
+output_path = '~/.config/gtk-4.0/gtk.css'
+
+[templates.kvantum]
+input_path = '~/.config/matugen/templates/kvantum/kvantum-colors.kvconfig'
+output_path = '~/.config/Kvantum/Material/Material.kvconfig'
+
+[templates.kvantum_svg]
+input_path = '~/.config/matugen/templates/kvantum/kvantum-colors.svg'
+output_path = '~/.config/Kvantum/Material/Material.svg'
+
+[templates.colors]
+input_path = '~/.config/matugen/templates/kvantum/Material.colors'
+output_path = '~/.local/share/color-schemes/Material.colors'
+
+[templates.kitty]
+input_path = '~/.config/matugen/templates/kitty.conf'
+output_path = '~/.config/kitty/themes/Material.conf'
+post_hook = "kitty +kitten themes --reload-in=all Material"
+
+[templates.vivaldi]
+input_path = '~/.config/matugen/templates/vivaldi.css'
+output_path = '~/.config/vivaldi/colors.css' 
+
+[templates.slint]
+input_path = "~/.config/matugen/templates/colors.slint"
+output_path = "~/.config/nucleus-shell/material/colors.slint"

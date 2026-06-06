@@ -1,0 +1,23 @@
+MenuBar=Disabled
+
+[General]
+Version=202
+ViewPropsTimestamp=2026,4,6,15,8,25.624
+
+[IconsMode]
+PreviewSize=112
+UseSystemFont=false
+ViewFont=JetBrains Mono,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1,,0,0
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[PreviewSettings]
+Plugins=cursorthumbnail,imagethumbnail,windowsimagethumbnail,fontthumbnail,opendocumentthumbnail,kraorathumbnail,comicbookthumbnail,exrthumbnail,audiothumbnail,appimagethumbnail,ebookthumbnail,jpegthumbnail,directorythumbnail,windowsexethumbnail,djvuthumbnail,svgthumbnail,gsf-office,glycin-jxl,glycin-image-rs,glycin-heif,glycin-svg
+
+[UiSettings]
+ColorScheme=Material
